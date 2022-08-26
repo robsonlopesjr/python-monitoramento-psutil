@@ -38,6 +38,8 @@
 
 :heavy_check_mark: Monitoramento do Sensor de Temperatura
 
+:heavy_check_mark: Monitoramento de Disco
+
 ---
 
 ## 🎯 Pré-requisitos
