@@ -2,6 +2,10 @@
 
 <p align="center">🚧  Em construção...  🚧</p>
 
+<h1 align="center">
+  <img alt="PSUtil" title="#PSUtil" src="https://raw.githubusercontent.com/robsonlopesjr/python-monitoramento-psutil/267347ffe04ffcb2b6947ff67788f5c24ef8c230/assets/image.png" />
+</h1>
+
 ---
 
 ### 📖 Tópicos
